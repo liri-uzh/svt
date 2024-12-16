@@ -1,4 +1,4 @@
 # About
-This repository holds the code of Praat Demonstration for Speech & Voice Tools provided by [LiRI Resource Hub](https://www.liri.uzh.ch/en/resources-hub.html). 
+Praat Demonstration: script snippets to demonstrate phonetics research and signal processing.
 
 For more details please go to our [documentation page: Praat Demonstration](https://liri-resources-hub.gitbook.io/svt/tool-catalogue/praat-demonstration).
