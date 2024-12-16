@@ -1,0 +1,218 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 233.83372502326966 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "reading" 
+        xmin = 0 
+        xmax = 233.83372502326966 
+        intervals: size = 51 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7383591175079347 
+            text = "" 
+        intervals [2]:
+            xmin = 1.7383591175079347 
+            xmax = 5.650165987014771 
+            text = "1_The clown had a funny face." 
+        intervals [3]:
+            xmin = 5.650165987014771 
+            xmax = 8.289554977416993 
+            text = "" 
+        intervals [4]:
+            xmin = 8.289554977416993 
+            xmax = 12.930963945388795 
+            text = "2_I didn't say big, I said pig!" 
+        intervals [5]:
+            xmin = 12.930963945388795 
+            xmax = 15.136020088195801 
+            text = "" 
+        intervals [6]:
+            xmin = 15.136020088195801 
+            xmax = 17.506843996047973 
+            text = "3_I love you." 
+        intervals [7]:
+            xmin = 17.506843996047973 
+            xmax = 19.18234696388245 
+            text = "" 
+        intervals [8]:
+            xmin = 19.18234696388245 
+            xmax = 24.08787603378296 
+            text = "4_After tea, father fed the cat some food." 
+        intervals [9]:
+            xmin = 24.08787603378296 
+            xmax = 29.010918045043947 
+            text = "" 
+        intervals [10]:
+            xmin = 29.010918045043947 
+            xmax = 34.07512898445129 
+            text = "5_She had your dark suit in greasy wash water all year." 
+        intervals [11]:
+            xmin = 34.07512898445129 
+            xmax = 46.8422869682312 
+            text = "" 
+        intervals [12]:
+            xmin = 46.8422869682312 
+            xmax = 54.37546200752258 
+            text = "6_I didn't say pig, I said big!" 
+        intervals [13]:
+            xmin = 54.37546200752258 
+            xmax = 60.585728073120116 
+            text = "" 
+        intervals [14]:
+            xmin = 60.585728073120116 
+            xmax = 66.65191717147827 
+            text = "7_The car engine's running." 
+        intervals [15]:
+            xmin = 66.65191717147827 
+            xmax = 76.87972917556762 
+            text = "" 
+        intervals [16]:
+            xmin = 76.87972917556762 
+            xmax = 79.8155869960785 
+            text = "8_You are an idiot." 
+        intervals [17]:
+            xmin = 79.8155869960785 
+            xmax = 86.90758004188537 
+            text = "" 
+        intervals [18]:
+            xmin = 86.90758004188537 
+            xmax = 91.15532298088074 
+            text = "9_I didn't say pea, I said tea!" 
+        intervals [19]:
+            xmin = 91.15532298088074 
+            xmax = 102.53366317749023 
+            text = "" 
+        intervals [20]:
+            xmin = 102.53366317749023 
+            xmax = 106.98981494903565 
+            text = "10_Don't ask me to carry an oily rag like that." 
+        intervals [21]:
+            xmin = 106.98981494903565 
+            xmax = 108.57431211471557 
+            text = "" 
+        intervals [22]:
+            xmin = 108.57431211471557 
+            xmax = 111.83006711006165 
+            text = "11_I think you are beautiful." 
+        intervals [23]:
+            xmin = 111.83006711006165 
+            xmax = 113.32523407936095 
+            text = "" 
+        intervals [24]:
+            xmin = 113.32523407936095 
+            xmax = 118.3443510055542 
+            text = "12_I didn't say tea, I said pea!" 
+        intervals [25]:
+            xmin = 118.3443510055542 
+            xmax = 128.618101978302 
+            text = "" 
+        intervals [26]:
+            xmin = 128.618101978302 
+            xmax = 132.0704481124878 
+            text = "13_Children like strawberries." 
+        intervals [27]:
+            xmin = 132.0704481124878 
+            xmax = 133.77954211235047 
+            text = "" 
+        intervals [28]:
+            xmin = 133.77954211235047 
+            xmax = 136.65426106452944 
+            text = "14_I really like you." 
+        intervals [29]:
+            xmin = 136.65426106452944 
+            xmax = 138.36585512161255 
+            text = "" 
+        intervals [30]:
+            xmin = 138.36585512161255 
+            xmax = 142.1443759918213 
+            text = "15_I didn't say key, I said tea!" 
+        intervals [31]:
+            xmin = 142.1443759918213 
+            xmax = 149.33489813804627 
+            text = "" 
+        intervals [32]:
+            xmin = 149.33489813804627 
+            xmax = 154.9879390716553 
+            text = "16_The house had nine rooms." 
+        intervals [33]:
+            xmin = 154.9879390716553 
+            xmax = 156.98399510383607 
+            text = "" 
+        intervals [34]:
+            xmin = 156.98399510383607 
+            xmax = 159.8182839870453 
+            text = "17_I hate this guy." 
+        intervals [35]:
+            xmin = 159.8182839870453 
+            xmax = 162.05085196495057 
+            text = "" 
+        intervals [36]:
+            xmin = 162.05085196495057 
+            xmax = 166.58964104652406 
+            text = "18_I didn't say tea, I said key!" 
+        intervals [37]:
+            xmin = 166.58964104652406 
+            xmax = 168.67899503707886 
+            text = "" 
+        intervals [38]:
+            xmin = 168.67899503707886 
+            xmax = 171.78825612068178 
+            text = "19_They're buying some bread." 
+        intervals [39]:
+            xmin = 171.78825612068178 
+            xmax = 173.4229229927063 
+            text = "" 
+        intervals [40]:
+            xmin = 173.4229229927063 
+            xmax = 180.84527010917665 
+            text = "20_You are acting like a jerk." 
+        intervals [41]:
+            xmin = 180.84527010917665 
+            xmax = 182.52584495544434 
+            text = "" 
+        intervals [42]:
+            xmin = 182.52584495544434 
+            xmax = 186.49773616790773 
+            text = "21_I didn't say key, I said pea! " 
+        intervals [43]:
+            xmin = 186.49773616790773 
+            xmax = 188.65024509429932 
+            text = "" 
+        intervals [44]:
+            xmin = 188.65024509429932 
+            xmax = 192.876913022995 
+            text = "22_The green tomatoes are small." 
+        intervals [45]:
+            xmin = 192.876913022995 
+            xmax = 195.04116716384888 
+            text = "" 
+        intervals [46]:
+            xmin = 195.04116716384888 
+            xmax = 201.7035059452057 
+            text = "23_I am really happy to see you." 
+        intervals [47]:
+            xmin = 201.7035059452057 
+            xmax = 206.72846903800965 
+            text = "" 
+        intervals [48]:
+            xmin = 206.72846903800965 
+            xmax = 222.02589507102968 
+            text = "24_I didn't say pea, I said key! " 
+        intervals [49]:
+            xmin = 222.02589507102968 
+            xmax = 225.55891003608704 
+            text = "" 
+        intervals [50]:
+            xmin = 225.55891003608704 
+            xmax = 233.48372502326967 
+            text = "25_I can't stand you face. " 
+        intervals [51]:
+            xmin = 233.48372502326967 
+            xmax = 233.83372502326966 
+            text = "" 

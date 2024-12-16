@@ -1,0 +1,9 @@
+This is PresenterPro.
+Each line of a text file is presented on the screen one-by-one.
+First read when the screen turns green.
+If you want to repeat, press the repeat button.
+If you want to go back, press the arrow to the left.
+If you want to proceed, press the arrow to the right. 
+You can exit at any time by pressing the 'exit' button. 
+After the presentation of the last line PresenterPro will finish. 
+PresenterPro creates a TextGrid in which the last version of a read line is labelled. 

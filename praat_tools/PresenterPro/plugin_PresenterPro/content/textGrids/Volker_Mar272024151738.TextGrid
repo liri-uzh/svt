@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 116.49416475016623 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "reading" 
+        xmin = 0 
+        xmax = 116.49416475016623 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 61.09820745801553 
+            text = "" 
+        intervals [2]:
+            xmin = 61.09820745801553 
+            xmax = 63.403538333065804 
+            text = "1_This is PresenterPro." 
+        intervals [3]:
+            xmin = 63.403538333065804 
+            xmax = 68.0369993330445 
+            text = "" 
+        intervals [4]:
+            xmin = 68.0369993330445 
+            xmax = 73.24378795810044 
+            text = "2_Each line of a text file is presented on the screen one-by-one." 
+        intervals [5]:
+            xmin = 73.24378795810044 
+            xmax = 74.57071520816534 
+            text = "" 
+        intervals [6]:
+            xmin = 74.57071520816534 
+            xmax = 78.90246291719377 
+            text = "3_First read when the screen turns green." 
+        intervals [7]:
+            xmin = 78.90246291719377 
+            xmax = 80.3366942080669 
+            text = "" 
+        intervals [8]:
+            xmin = 80.3366942080669 
+            xmax = 84.14440825004131 
+            text = "4_If you want to repeat, press the repeat button." 
+        intervals [9]:
+            xmin = 84.14440825004131 
+            xmax = 85.72843420817516 
+            text = "" 
+        intervals [10]:
+            xmin = 85.72843420817516 
+            xmax = 89.92349833301269 
+            text = "5_If you want to go back, press the arrow to the left." 
+        intervals [11]:
+            xmin = 89.92349833301269 
+            xmax = 91.12922929213381 
+            text = "" 
+        intervals [12]:
+            xmin = 91.12922929213381 
+            xmax = 95.2639011671301 
+            text = "6_If you want to proceed, press the arrow to the right. " 
+        intervals [13]:
+            xmin = 95.2639011671301 
+            xmax = 97.33641891703009 
+            text = "" 
+        intervals [14]:
+            xmin = 97.33641891703009 
+            xmax = 101.36905704210513 
+            text = "7_You can exit at any time by pressing the 'exit' button. " 
+        intervals [15]:
+            xmin = 101.36905704210513 
+            xmax = 103.08976237508467 
+            text = "" 
+        intervals [16]:
+            xmin = 103.08976237508467 
+            xmax = 107.66310366713442 
+            text = "8_After the presentation of the last line PresenterPro will finish. " 
+        intervals [17]:
+            xmin = 107.66310366713442 
+            xmax = 109.61097337501123 
+            text = "" 
+        intervals [18]:
+            xmin = 109.61097337501123 
+            xmax = 116.14416475016624 
+            text = "9_PresenterPro creates a TextGrid in which the last version of a read line is labelled. " 
+        intervals [19]:
+            xmin = 116.14416475016624 
+            xmax = 116.49416475016623 
+            text = "" 

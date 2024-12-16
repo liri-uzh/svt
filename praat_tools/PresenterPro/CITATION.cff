@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PresenterPro
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Volker
+    family-names: Dellwo
+    email: volker.dellwo@uzh.ch
+    affiliation: University of Zürich
+    orcid: 'https://orcid.org/0000-0002-8494-6025'
+identifiers:
+  - type: doi
+    value: 10.5167/uzh-127817
+repository-code: 'https://github.com/LiRI-Resource-Hub/PresenterPro'
+abstract: ' Praat (www.praat.org) is a powerful tool for a wide variety of speech analysis and processing tasks. When it comes to recording speech, however, it lacks some fundamental functions that allow a user to prompt a reader with a written list of words or sentences (henceforth: speech prompts) on a screen and index the prompted recordings for further processing. PresenterPro - a Praat plug-in - fills this gap. It (a) prompts a reader to read utterances from a screen, (b) automatically indexes the recorded speech prompts in a Praat TextGrid and (c) extracts all recorded speech prompts into individual files. It thus offers an efficient solution for recording large lists of speech prompts. The present paper describes the plug-in and discusses in which situations it is particularly useful.'
+license: GPL-3.0

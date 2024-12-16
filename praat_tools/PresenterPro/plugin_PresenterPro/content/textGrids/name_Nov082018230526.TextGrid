@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 37.81678991317749 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "reading" 
+        xmin = 0 
+        xmax = 37.81678991317749 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3310290813446046 
+            text = "" 
+        intervals [2]:
+            xmin = 1.3310290813446046 
+            xmax = 4.786835145950318 
+            text = "1_This is PresenterPro." 
+        intervals [3]:
+            xmin = 4.786835145950318 
+            xmax = 7.9984430313110355 
+            text = "" 
+        intervals [4]:
+            xmin = 7.9984430313110355 
+            xmax = 12.522458982467652 
+            text = "2_Each line of a text file is presented on the screen one-by-one." 
+        intervals [5]:
+            xmin = 12.522458982467652 
+            xmax = 15.66366400718689 
+            text = "" 
+        intervals [6]:
+            xmin = 15.66366400718689 
+            xmax = 18.935937118530273 
+            text = "3_First read when the screen turns green." 
+        intervals [7]:
+            xmin = 18.935937118530273 
+            xmax = 22.278611087799074 
+            text = "" 
+        intervals [8]:
+            xmin = 22.278611087799074 
+            xmax = 25.654636096954345 
+            text = "4_If you want to repeat, press the repeat button." 
+        intervals [9]:
+            xmin = 25.654636096954345 
+            xmax = 28.611475133895876 
+            text = "" 
+        intervals [10]:
+            xmin = 28.611475133895876 
+            xmax = 31.9671160697937 
+            text = "5_If you want to go back, press the arrow to the left." 
+        intervals [11]:
+            xmin = 31.9671160697937 
+            xmax = 35.271598958969115 
+            text = "" 
+        intervals [12]:
+            xmin = 35.271598958969115 
+            xmax = 37.466789913177486 
+            text = "6_If you want to proceed, press the arrow to the right. " 
+        intervals [13]:
+            xmin = 37.466789913177486 
+            xmax = 37.81678991317749 
+            text = "" 

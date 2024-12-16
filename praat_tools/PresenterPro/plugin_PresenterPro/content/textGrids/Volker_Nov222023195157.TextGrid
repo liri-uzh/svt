@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 73.42210624999716 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "reading" 
+        xmin = 0 
+        xmax = 73.42210624999716 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.872437749995152 
+            text = "" 
+        intervals [2]:
+            xmin = 12.872437749995152 
+            xmax = 20.958423709005 
+            text = "1_This is PresenterPro." 
+        intervals [3]:
+            xmin = 20.958423709005 
+            xmax = 56.334677459008525 
+            text = "" 
+        intervals [4]:
+            xmin = 56.334677459008525 
+            xmax = 61.59960604200314 
+            text = "2_Each line of a text file is presented on the screen one-by-one." 
+        intervals [5]:
+            xmin = 61.59960604200314 
+            xmax = 65.06091145899553 
+            text = "" 
+        intervals [6]:
+            xmin = 65.06091145899553 
+            xmax = 68.74244291700889 
+            text = "3_First read when the screen turns green." 
+        intervals [7]:
+            xmin = 68.74244291700889 
+            xmax = 69.85520629199745 
+            text = "" 
+        intervals [8]:
+            xmin = 69.85520629199745 
+            xmax = 73.07210624999716 
+            text = "4_If you want to repeat, press the repeat button." 
+        intervals [9]:
+            xmin = 73.07210624999716 
+            xmax = 73.42210624999716 
+            text = "" 

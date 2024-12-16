@@ -1,0 +1,9 @@
+line_width = 45
+font_size = 35
+line_spacing = 8
+font = 1
+font$ = "Helvetica"
+font_colour$ = "Black"
+display_sentence_number = 0
+randomize_list = 0
+countdown_duration = 1
