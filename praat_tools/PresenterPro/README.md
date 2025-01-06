@@ -8,7 +8,7 @@ However, Praat lacks some essential features for prompting speech during recordi
 ![Home screen of PresenterPro.](./images/PresentorPro_HomeScreen.png)
 
 # Demonstration
-This short **[video](https://www.youtube.com/watch?v=fjlFNOzfdPo)** produced by Clemens Lutz from LiRI Resource Hub efficiently demonstrates you everything about PreserterPro, from the installation to the usage. Be sure to ckeck it out 😉!
+This short **[video](https://www.youtube.com/watch?v=ysKoC0rHrR0)** produced by Clemens Lutz from LiRI Resource Hub efficiently demonstrates you everything about PreserterPro, from the installation to the usage. Be sure to ckeck it out 😉!
 
 # Installation
 - Method 1 (recommended): Copy the directory `./plugin_PresenterPro` into the [Praat preferences directory](https://www.fon.hum.uva.nl/praat/manual/preferences_folder.html): \
