@@ -12,17 +12,12 @@ Databases typically have many files in one directory. In Praat it can be a bit b
 This short **[video](https://www.youtube.com/watch?v=fjlFNOzfdPo)** produced by Clemens Lutz from LiRI Resource Hub efficiently demonstrates you everything about databaseExplorer, from the installation to the usage. Be sure to ckeck it out 😉!
 
 # Installation
-- Method 1 (recommended): Copy the directory `./plugin_databaseExplorer` into the [Praat preferences directory](https://www.fon.hum.uva.nl/praat/manual/preferences_folder.html): \
-  Assuming you're user `liri`:, \
-  on Windows: `C:\Users\liri\Praat\`; \
-  on MacOS: `/Users/liri/Library/Preferences/Praat Prefs/`; \
-  on Linux: `/home/liri/.praat-dir/`.\
-  Then reopen Praat, databaseExplorer automatically appears in Praat under ‘New > PresenterPro’, in Praat Objects window.
-- Method 2: Execute the script `setup.praat` that’s inside the directory. \
-  **Note**: if using this method, the plugin folder should not be moved somewhere else after executing the script, otherwise it couldn’t be found next time. Therefore highly recommend to use method 1.
+For this one, we created a convenient installation script: simply run installation.praat, it copies the databaseExplorer.praat (therefore make sure theses two files are in the same folder when you run it) to your folder and adds the databaseExplorer button to your dynamic object window. 
+
+Once installation done, you can delete your temporary files used for installation.
 
 <div align="center">
-  <img src="./images/Praat_objects_window_selected.png" alt="Entry of databaseExplorer in Praat." style="width: 50%;">
+  <img src="./images/Praat_objects_button_databaseExplorer.png" alt="Entry of databaseExplorer in Praat." style="width: 50%;">
 </div>
 
 # Author
